@@ -54,13 +54,13 @@ img {
   background-color: hsl(0, 0%, 100%);
   position: absolute;
   left: 50%;
-  margin-left: -165px;
-  top: 50%;
-  margin-top: 257.5px;
-  /* transform: translate(-50%, 50%); */
+  /* margin-left: -165px; */
+  /* top: 50%; */
+  margin-top: 190px;
+  transform: translate(-50%, 50%);
   height: 515px;
   width: 330px;
-  border: 2px solid hsl(0, 0%, 100%);
+  /* border: 2px solid hsl(0, 0%, 100%); */
   border-radius: 16px;
   box-shadow: 0 5px 8px -4px grey;
 }
