@@ -36,12 +36,10 @@ img {
 
 /*---------------------------- CSS  ------------------------*/
 .flex-footer {
-  display: flex;
-  justify-content: center;
+  text-align: center;
   font-family: 'Outfit', sans-serif;
   font-weight: 300;
-  font-size: 0.75rem;
-  margin: 0 auto 0.3125;
+  font-size: 0.95rem;
 }
 
 .flex-container {
