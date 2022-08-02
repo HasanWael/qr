@@ -36,12 +36,9 @@ img {
 
 
 /*---------------------------- CSS  ------------------------*/
-.footer-p-2 {
-  position: fixed;
-  left: 0;
-  bottom: 0;
-  width: 100%;
-  text-align: center;
+.flex-footer {
+  display: flex;
+  justify-content: center;
   font-family: 'Outfit', sans-serif;
   font-weight: 300;
   font-size: 12px;
@@ -52,7 +49,7 @@ img {
   display: flex;
   justify-content: center;
   align-items: center;
-  height: 100%;
+  height: 98%;
 }
 
 .white-card {
